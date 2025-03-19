@@ -1,27 +1,21 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
-
 <p>
   <img
     align="left"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=gdsantana&"
-    alt="gdsantana"
-  />
-</p>
-<p>
-  <img
-    align="center"
     src="https://github-readme-stats.vercel.app/api?username=gdsantana&show_icons=true&locale=en&theme=dark"
     alt="gdsantana"
   />
 </p>
 
 <p>
-  &nbsp;<img
-    align="right"
+  <img
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=gdsantana&show_icons=true&locale=en&layout=compact&theme=dark"
     alt="gdsantana"
   />
 </p>
+<br>
+<br>
 
 
 <h3 align="left">Languages and Tools:</h3>
