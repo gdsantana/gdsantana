@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Guilherme</h1>
+<h1 align="center">Hello There, I'm Guilherme Santana</h1>
 
 ## 📊 GitHub Stats:
 
