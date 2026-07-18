@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+futuristic+web+interfaces;React+%7C+Vue+%7C+TypeScript;Welcome+to+my+arcade" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Guilherme+Santana;Welcome+to+my+arcade" alt="Typing SVG" />
 </p>
 
-## POWER UPS
+<p align="left">
+  <img src="./assets/title-power-ups.svg" alt="Power Ups" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vue.js-050A1F?style=for-the-badge&logo=vuedotjs&logoColor=00E5FF" alt="Vue.js" />
@@ -13,24 +15,30 @@
   <img src="https://img.shields.io/badge/Python-050A1F?style=for-the-badge&logo=python&logoColor=7DD3FC" alt="Python" />
 </p>
 
-## HIGH SCORES
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gdsantana&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&bg_color=050A1F&title_color=00E5FF&icon_color=00BFFF&text_color=E0F7FF" alt="Guilherme Santana GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdsantana&layout=compact&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&bg_color=050A1F&title_color=00E5FF&text_color=E0F7FF" alt="Most used languages" />
+<p align="left">
+  <img src="./assets/title-high-scores.svg" alt="High Scores" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=gdsantana&theme=synthwave&hide_border=true&background=050A1F&ring=00E5FF&fire=00BFFF&currStreakLabel=00E5FF&sideLabels=E0F7FF&currStreakNum=E0F7FF&sideNums=7DD3FC" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gdsantana&theme=github_dark" alt="Guilherme Santana GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gdsantana&theme=github_dark" alt="Most used languages" />
 </p>
 
-## ACTIVITY GRID
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gdsantana&theme=transparent&hide_border=true&background=050A1F&ring=00E5FF&fire=00BFFF&currStreakLabel=00E5FF&sideLabels=E0F7FF&currStreakNum=E0F7FF&sideNums=7DD3FC" alt="GitHub streak" />
+</p>
+
+<p align="left">
+  <img src="./assets/title-activity-grid.svg" alt="Activity Grid" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gdsantana&bg_color=050A1F&color=E0F7FF&line=00E5FF&point=7DD3FC&area=true&area_color=00BFFF&hide_border=true" alt="GitHub activity graph" />
 </p>
 
-## CONNECT WITH ME
+<p align="left">
+  <img src="./assets/title-connect.svg" alt="Connect With Me" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/gdsantana">
@@ -39,8 +47,4 @@
   <a href="https://instagram.com/gdsantana.dev">
     <img src="https://img.shields.io/badge/Instagram-050A1F?style=for-the-badge&logo=instagram&logoColor=00BFFF" alt="Instagram" />
   </a>
-</p>
-
-<p align="center">
-  <strong>INSERT COIN TO CONTINUE...</strong>
 </p>
